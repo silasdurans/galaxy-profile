@@ -1,5 +1,7 @@
+# Your GitHub username (required)
+username: silasdurans
+
 profile:
-  username: "silasdurans"
   name: "Silas Durans"
   tagline: "Back-end Developer & Cybersecurity Enthusiast"
   company: ""
@@ -55,7 +57,9 @@ projects:
 stats:
   metrics:
     - "commits"
+    - "stars"
     - "prs"
+    - "issues"
     - "repos"
 
 languages:
@@ -64,5 +68,4 @@ languages:
     - "CSS"
     - "Shell"
     - "Makefile"
-    - "Batchfile"
   max_display: 8
