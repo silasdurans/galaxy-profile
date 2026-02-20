@@ -1,0 +1,68 @@
+profile:
+  username: "silasdurans"
+  name: "Silas Durans"
+  tagline: "Back-end Developer & Cybersecurity Enthusiast"
+  company: ""
+  location: "Brasil"
+  bio: |
+    Building resilient systems.
+    Designing secure architectures.
+  philosophy: '"Do, or do not. There is no try." - Yoda'
+
+social:
+  email: "silasdurans@hotmail.com"
+  linkedin: "silasdurans"
+  website: "https://silasdurans.github.io/portfolio/"
+
+galaxy_arms:
+  - name: "Backend Architecture"
+    color: "synapse_cyan"
+    items:
+      - "TypeScript"
+      - "Node.js"
+      - "Python"
+      - "PostgreSQL"
+      - "REST APIs"
+
+  - name: "Cybersecurity"
+    color: "dendrite_violet"
+    items:
+      - "OWASP"
+      - "JWT"
+      - "AuthN/AuthZ"
+      - "Threat Modeling"
+      - "Secure Design"
+
+  - name: "Infrastructure"
+    color: "axon_amber"
+    items:
+      - "Docker"
+      - "CI/CD"
+      - "GitHub Actions"
+      - "Linux"
+
+projects:
+  - repo: "silasdurans/SOMA"
+    arm: 0
+    description: "Backend services with modular architecture and secure auth flows."
+  - repo: "silasdurans/portfolio"
+    arm: 0
+    description: "Personal portfolio focused on clean structure and performance."
+  - repo: "silasdurans/UFMA"
+    arm: 2
+    description: "Academic projects and engineering experiments."
+
+stats:
+  metrics:
+    - "commits"
+    - "prs"
+    - "repos"
+
+languages:
+  exclude:
+    - "HTML"
+    - "CSS"
+    - "Shell"
+    - "Makefile"
+    - "Batchfile"
+  max_display: 8
