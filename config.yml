@@ -53,13 +53,14 @@ projects:
   - repo: "silasdurans/UFMA"
     arm: 2
     description: "Academic projects and engineering experiments."
+  - repo: "silasdurans/knight-against-the-world"
+    arm: 2
+    description: "Game project exploring systems design and implementation."
 
 stats:
   metrics:
     - "commits"
-    - "stars"
     - "prs"
-    - "issues"
     - "repos"
 
 languages:
@@ -68,4 +69,5 @@ languages:
     - "CSS"
     - "Shell"
     - "Makefile"
+    - "Batchfile"
   max_display: 8
